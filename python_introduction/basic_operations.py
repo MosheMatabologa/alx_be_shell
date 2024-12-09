@@ -13,7 +13,7 @@ def subtraction():
     print(f'subtraction of 10 and 5 is {subtract}')
 
 def multiplication():
-    multiply = number_1 + number_2
+    multiply = number_1 * number_2
     print(f'multiplication of 10 and 5 is {multiply}')
 
 addition()
